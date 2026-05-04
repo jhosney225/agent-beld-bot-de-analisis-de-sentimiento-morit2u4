@@ -1,0 +1,6 @@
+{
+  "name": "agent-beld-bot-de-analisis-de-sentimiento-morit2u4",
+  "version": "1.0.0",
+  "description": "Proyecto de Beld [Gen8]: bot de analisis de sentimiento de noticias financieras",
+  "main": "index.js"
+}
